@@ -1,74 +1,41 @@
-[ 
-  { 
-    "AuctionDate": "25.02.2025",
-    "AuctionNum": "22",
-    "ValCode": "UAH",
-    "StockCode": "UA4000234215",
-    "PayDate": "26.02.2025",
-    "RepayDate": "24.06.2026",
-    "DaysToRepay": 483,
-    "StockRestrict": 362133,
-    "StockRestrictN": 46262,
-    "StockRestrictMF": 5000000,
-    "Bucket": "1,5y",
-    "IncomeLevel": 15.85,
-    "AvgLevel": 15.85,
-    "Amount": 362133,
-    "AmountN": 46262,
-    "BTC": 1,
-    "VolumeSubmit": 362133000,
-    "VolumeSold": 362133000,
-    "VolumeSoldN": 46262000,
-    "Attraction": 368224940.04,
-    "MinLevel": 15.8,
-    "MaxLevel": 15.85
-  },
-  { 
-    "AuctionDate": "25.02.2025",
-    "AuctionNum": "23",
-    "ValCode": "UAH",
-    "StockCode": "UA4000234223",
-    "PayDate": "26.02.2025",
-    "RepayDate": "09.06.2027",
-    "DaysToRepay": 833,
-    "StockRestrict": 1473508,
-    "StockRestrictN": 198180,
-    "StockRestrictMF": 5000000,
-    "Bucket": "2y",
-    "IncomeLevel": 16.95,
-    "AvgLevel": 16.95,
-    "Amount": 1473508,
-    "AmountN": 198180,
-    "BTC": 1,
-    "VolumeSubmit": 1473508000,
-    "VolumeSold": 1473508000,
-    "VolumeSoldN": 198180000,
-    "Attraction": 1502552368.75,
-    "MinLevel": 16.9,
-    "MaxLevel": 16.95
-  },
-  { 
-    "AuctionDate": "25.02.2025",
-    "AuctionNum": "24",
-    "ValCode": "UAH",
-    "StockCode": "UA4000234553",
-    "PayDate": "26.02.2025",
-    "RepayDate": "09.08.2028",
-    "DaysToRepay": 1260,
-    "StockRestrict": 10000000,
-    "StockRestrictN": 3000000,
-    "StockRestrictMF": 10000000,
-    "Bucket": "3y",
-    "IncomeLevel": 16,
-    "AvgLevel": 15.77,
-    "Amount": 10000000,
-    "AmountN": 3000000,
-    "BTC": 3.3,
-    "VolumeSubmit": 33454176000,
-    "VolumeSold": 10000000000,
-    "VolumeSoldN": 3000000000,
-    "Attraction": 10058077300,
-    "MinLevel": 14,
-    "MaxLevel": 16
-  }
+[
+{ 
+"exchangedate":"19.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"18.07.2022"
+ }
+,{ 
+"exchangedate":"18.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"15.07.2022"
+ }
+,{ 
+"exchangedate":"17.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"16.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"15.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"14.07.2022"
+ }
+,{ 
+"exchangedate":"14.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"13.07.2022"
+ }
+,{ 
+"exchangedate":"13.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"12.07.2022"
+ }
+,{ 
+"exchangedate":"12.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"11.07.2022"
+ }
+,{ 
+"exchangedate":"11.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"08.07.2022"
+ }
+,{ 
+"exchangedate":"10.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"09.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"08.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"07.07.2022"
+ }
+,{ 
+"exchangedate":"07.07.2022","r030":840,"cc":"USD","txt":"Долар США","enname":"US Dollar","rate":29.2549,"units":1,"rate_per_unit":29.2549,"group":"1","calcdate":"06.07.2022"
+ }
 ]
